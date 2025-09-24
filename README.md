@@ -73,3 +73,5 @@ features, evaluates performance, and visualizes results.
     the file path inside `knn.py`.\
 -   You can adjust the value of `n_neighbors` in `KNeighborsClassifier`
     for tuning model performance.
+
+**Sujay Roy**
